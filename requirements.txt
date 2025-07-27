@@ -8,4 +8,5 @@ langchain-openai==0.3.24
 langchain-google-genai
 langchain-community==0.3.26
 dvc
+dvc[s3]
 -e .
