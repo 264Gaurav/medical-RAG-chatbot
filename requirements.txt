@@ -5,5 +5,7 @@ pypdf==5.6.1
 python-dotenv==1.1.0
 langchain-pinecone==0.2.8
 langchain-openai==0.3.24
+langchain-google-genai
 langchain-community==0.3.26
+dvc
 -e .
