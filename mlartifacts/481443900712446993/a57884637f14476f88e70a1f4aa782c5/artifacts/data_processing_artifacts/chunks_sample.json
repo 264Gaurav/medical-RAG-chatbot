@@ -1,0 +1,77 @@
+[
+    {
+        "id": null,
+        "metadata": {
+            "producer": "PDFlib+PDI 5.0.0 (SunOS)",
+            "creator": "PyPDF",
+            "creationdate": "2004-12-18T17:00:02-05:00",
+            "moddate": "2004-12-18T16:15:31-06:00",
+            "source": "data/Medical_book.pdf",
+            "total_pages": 637,
+            "page": 1,
+            "page_label": "2"
+        },
+        "page_content": "The GALE\nENCYCLOPEDIA\nof MEDICINE\nSECOND EDITION",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "producer": "PDFlib+PDI 5.0.0 (SunOS)",
+            "creator": "PyPDF",
+            "creationdate": "2004-12-18T17:00:02-05:00",
+            "moddate": "2004-12-18T16:15:31-06:00",
+            "source": "data/Medical_book.pdf",
+            "total_pages": 637,
+            "page": 2,
+            "page_label": "3"
+        },
+        "page_content": "The GALE\nENCYCLOPEDIA\nof MEDICINE\nSECOND EDITION\nJACQUELINE L. LONGE, EDITOR\nDEIRDRE S. BLANCHFIELD, ASSOCIATE EDITOR\nVOLUME\nA-B\n1",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "producer": "PDFlib+PDI 5.0.0 (SunOS)",
+            "creator": "PyPDF",
+            "creationdate": "2004-12-18T17:00:02-05:00",
+            "moddate": "2004-12-18T16:15:31-06:00",
+            "source": "data/Medical_book.pdf",
+            "total_pages": 637,
+            "page": 3,
+            "page_label": "4"
+        },
+        "page_content": "STAFF\nJacqueline L. Longe, Project Editor\nDeirdre S. Blanchfield, Associate Editor\nChristine B. Jeryan, Managing Editor\nDonna Olendorf, Senior Editor\nStacey Blachford, Associate Editor\nKate Kretschmann, Melissa C. McDade, Ryan\nThomason, Assistant Editors\nMark Springer, Technical Specialist\nAndrea Lopeman, Programmer/Analyst\nBarbara J. Yarrow,Manager, Imaging and Multimedia\nContent\nRobyn V . Young,Project Manager, Imaging and\nMultimedia Content\nDean Dauphinais, Senior Editor, Imaging and\nMultimedia Content\nKelly A. Quin, Editor, Imaging and Multimedia Content\nLeitha Etheridge-Sims, Mary K. Grimes, Dave Oblender,\nImage Catalogers\nPamela A. Reed, Imaging Coordinator\nRandy Bassett, Imaging Supervisor\nRobert Duncan, Senior Imaging Specialist\nDan Newell, Imaging Specialist\nChristine O\u2019Bryan,Graphic Specialist\nMaria Franklin, Permissions Manager\nMargaret A. Chamberlain, Permissions Specialist\nMichelle DiMercurio, Senior Art Director\nMike Logusz, Graphic Artist",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "producer": "PDFlib+PDI 5.0.0 (SunOS)",
+            "creator": "PyPDF",
+            "creationdate": "2004-12-18T17:00:02-05:00",
+            "moddate": "2004-12-18T16:15:31-06:00",
+            "source": "data/Medical_book.pdf",
+            "total_pages": 637,
+            "page": 3,
+            "page_label": "4"
+        },
+        "page_content": "Mike Logusz, Graphic Artist\nMary Beth Trimper,Manager, Composition and\nElectronic Prepress\nEvi Seoud, Assistant Manager, Composition Purchasing\nand Electronic Prepress\nDorothy Maki, Manufacturing Manager\nWendy Blurton, Senior Manufacturing Specialist\nThe GALE\nENCYCLOPEDIA\nof MEDICINE\nSECOND EDITION\nSince this page cannot legibly accommodate all copyright notices, the\nacknowledgments constitute an extension of the copyright notice.\nWhile every effort has been made to ensure the reliability of the infor-\nmation presented in this publication, the Gale Group neither guarantees\nthe accuracy of the data contained herein nor assumes any responsibili-\nty for errors, omissions or discrepancies. The Gale Group accepts no\npayment for listing, and inclusion in the publication of any organiza-\ntion, agency, institution, publication, service, or individual does not\nimply endorsement of the editor or publisher. Errors brought to the",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "producer": "PDFlib+PDI 5.0.0 (SunOS)",
+            "creator": "PyPDF",
+            "creationdate": "2004-12-18T17:00:02-05:00",
+            "moddate": "2004-12-18T16:15:31-06:00",
+            "source": "data/Medical_book.pdf",
+            "total_pages": 637,
+            "page": 3,
+            "page_label": "4"
+        },
+        "page_content": "attention of the publisher and verified to the satisfaction of the publish-\ner will be corrected in future editions.\nThis book is printed on recycled paper that meets Environmental Pro-\ntection Agency standards.\nThe paper used in this publication meets the minimum requirements of\nAmerican National Standard for Information Sciences-Permanence\nPaper for Printed Library Materials, ANSI Z39.48-1984.\nThis publication is a creative work fully protected by all applicable\ncopyright laws, as well as by misappropriation, trade secret, unfair com-\npetition, and other applicable laws. The authors and editor of this work\nhave added value to the underlying factual material herein through one\nor more of the following: unique and original selection, coordination,\nexpression, arrangement, and classification of the information.\nGale Group and design is a trademark used herein under license.\nAll rights to this publication will be vigorously defended.\nCopyright \u00a9 2002\nGale Group\n27500 Drake Road",
+        "type": "Document"
+    }
+]

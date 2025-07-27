@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/481443900712446993/29b4bfa1cdff4f33a3e6ec91deb992dd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '481443900712446993'
+lifecycle_stage: active
+run_id: 29b4bfa1cdff4f33a3e6ec91deb992dd
+run_name: able-panda-2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753648769322
+status: 1
+tags: []
+user_id: baqirrizvi

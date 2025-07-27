@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/481443900712446993/70cfc58da97442bf9c80711f40afd157/artifacts
+end_time: 1753648154551
+entry_point_name: ''
+experiment_id: '481443900712446993'
+lifecycle_stage: active
+run_id: 70cfc58da97442bf9c80711f40afd157
+run_name: likeable-fish-267
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753648145119
+status: 3
+tags: []
+user_id: baqirrizvi
