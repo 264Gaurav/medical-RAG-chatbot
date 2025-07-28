@@ -89,6 +89,7 @@ def chat():
 
         # Invoke the RAG chain and get the response
         response = rag_chain.invoke({"input": msg})
+        mlflow.log_param("input", input)
         print("Response : ", response["answer"])
 
         # Log the response and its length
