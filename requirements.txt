@@ -15,4 +15,5 @@ mlflow[genai]
 dagshub
 ragas
 tqdm
+datasets
 -e .
