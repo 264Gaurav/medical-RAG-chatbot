@@ -1,6 +1,6 @@
 # medical-RAG-chatbot
 
-A LangChain-based Retrieval-Augmented Generation (RAG) chatbot for medical data. Integrates with Gemini/Grok AI to deliver accurate, context-aware answers in healthcare and biomedical domains.
+A LangChain-based Retrieval-Augmented Generation (RAG) chatbot for medical data. Integrates with ollama (llama-3.1 present locally on system) model and nomic embeddings (present locally on system) to deliver accurate, context-aware answers in healthcare and biomedical domains.
 
 ## make sure install all requirement
 
