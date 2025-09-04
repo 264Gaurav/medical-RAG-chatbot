@@ -175,6 +175,7 @@ This produces a `qas` dataset that enables automated RAG evaluation.
 ## Evaluation pipeline (two-part separation)
 
 **Part‑1 — Retrieval metrics**
+
 **Part‑2 — Generation metrics**
 
 - Use `ragas` to compute standard RAG metrics comparing generated answers ➜ ground-truth; store ragas outputs as artifacts
@@ -205,11 +206,23 @@ Tune these using MLflow experiments.
 
 ---
 
-## Testing & validation
+## Metrices for evaluation of RAG pipeline using RAGAS
 
-- Unit tests for chunking, embedding shapes and metadata preservation, index upsert & retrieval.
-- Integration test that ingests a small sample, indexes it, and runs a sample query to verify end-to-end.
-- Sanity checks: embedding dimension matches index, upsert counts match, retrieval returns scores in expected ranges.
+1. Context Precision
+
+2. Context Recall
+
+3. Context Entities Recall
+
+4. Noise Sensitivity
+
+5. Response Relevancy
+
+6. Faithfulness
+
+7. Multimodal Faithfulness
+
+8. Multimodal Relevance
 
 ---
 
