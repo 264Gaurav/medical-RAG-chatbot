@@ -100,7 +100,7 @@ def run_rag_pipeline(vector_store) -> tuple:
     rag_pipeline.setup_prompt(use_hub_prompt=True)
 
     # Setup retriever
-    rag_pipeline.setup_retriever(vector_store, search_type="similarity", k=8)
+    rag_pipeline.setup_retriever(vector_store, search_type="similarity", k=5)
 
     # Create RAG chains
     rag_chain, ragas_chain = rag_pipeline.create_rag_chains()
