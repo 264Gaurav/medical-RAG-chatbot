@@ -16,4 +16,6 @@ A LangChain-based Retrieval-Augmented Generation (RAG) chatbot for medical data.
 
 ## git add --> git commit --> git push to push the codebase (including metadata of dvc) to github/dagshub or any other remote
 
-# For more (RAG pipeline and RAG evaluation using RAGAS) click : [ragas Readme](./notebooks/RAGAS_Readme.md).
+### For more (RAG pipeline and RAG evaluation using RAGAS) click : [ragas Readme](./notebooks/RAGAS_Readme.md).
+
+### Modularized and seperate pipeline code Flow (RAG pipeline and RAG evaluation using RAGAS) click : [ragas Readme](./src/SRC_Readme.md).
