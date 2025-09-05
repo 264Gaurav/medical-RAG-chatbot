@@ -1,9 +1,9 @@
 question,context,ground_truth
-"What is the primary function of the GALE ENCYCLOPEDIA OF MEDICINE SECOND EDITION, as stated in the metadata?","page_content='The GALE
+"What is the primary function of the GALE ENCYCLOPEDIA OF MEDICINE, SECOND EDITION?","page_content='The GALE
 ENCYCLOPEDIA
 of MEDICINE
-SECOND EDITION' metadata={'source': 'data/Medical_book.pdf', 'page': 1}","The primary function of the GALE ENCYCLOPEDIA OF MEDICINE SECOND EDITION is to provide a comprehensive reference work for medical professionals, students, and researchers, offering in-depth information on various aspects of medicine."
-What is the role of Deirdre S. Blanchfield in The GALE ENCYCLOPEDIA of MEDICINE SECOND EDITION?,"page_content='The GALE
+SECOND EDITION' metadata={'source': 'data/Medical_book.pdf', 'page': 1}","The GALE ENCYCLOPEDIA OF MEDICINE, SECOND EDITION is a medical reference book that provides comprehensive information on various diseases, treatments, and medical procedures."
+What is the role of Jacqueline L. Longe in relation to the GALE ENCYCLOPEDIA OF MEDICINE SECOND EDITION?,"page_content='The GALE
 ENCYCLOPEDIA
 of MEDICINE
 SECOND EDITION
@@ -11,8 +11,8 @@ JACQUELINE L. LONGE, EDITOR
 DEIRDRE S. BLANCHFIELD, ASSOCIATE EDITOR
 VOLUME
 A-B
-1' metadata={'source': 'data/Medical_book.pdf', 'page': 2}",Deirdre S. Blanchfield is the Associate Editor of The Gale Encyclopedia of Medicine Second Edition.
-What is the role of a Project Manager in the context of creating multimedia content for medical education?,"page_content='STAFF
+1' metadata={'source': 'data/Medical_book.pdf', 'page': 2}",She is the editor of the GALE ENCYCLOPEDIA OF MEDICINE SECOND EDITION.
+What is the role of a Project Manager in the production process of a medical publication?,"page_content='STAFF
 Jacqueline L. Longe, Project Editor
 Deirdre S. Blanchfield, Associate Editor
 Christine B. Jeryan, Managing Editor
@@ -26,8 +26,8 @@ Barbara J. Yarrow,Manager, Imaging and Multimedia
 Content
 Robyn V . Young,Project Manager, Imaging and
 Multimedia Content
-Dean Dauphinais, Senior Editor, Imaging and' metadata={'source': 'data/Medical_book.pdf', 'page': 3}","The role of a Project Manager in the context of creating multimedia content for medical education is to oversee the planning, coordination, and execution of projects related to imaging and multimedia content. This includes managing teams, timelines, budgets, and ensuring that the final product meets the required standards."
-What is the role of Kelly A. Quin in the given context?,"page_content='Multimedia Content
+Dean Dauphinais, Senior Editor, Imaging and' metadata={'source': 'data/Medical_book.pdf', 'page': 3}","The role of a Project Manager in the production process of a medical publication is to oversee and coordinate the various stages of publication, including editing, design, and distribution. In this context, Robyn V. Young is the Project Manager responsible for managing the Imaging and Multimedia Content."
+Who is the Senior Editor for Imaging and Multimedia Content?,"page_content='Multimedia Content
 Dean Dauphinais, Senior Editor, Imaging and
 Multimedia Content
 Kelly A. Quin, Editor, Imaging and Multimedia Content
@@ -39,8 +39,8 @@ Robert Duncan, Senior Imaging Specialist
 Dan Newell, Imaging Specialist
 Christine O’Bryan,Graphic Specialist
 Maria Franklin, Permissions Manager
-Margaret A. Chamberlain, Permissions Specialist' metadata={'source': 'data/Medical_book.pdf', 'page': 3}",Kelly A. Quin is an Editor of Imaging and Multimedia Content.
-What is the role of a Permissions Manager in a publishing company?,"page_content='Maria Franklin, Permissions Manager
+Margaret A. Chamberlain, Permissions Specialist' metadata={'source': 'data/Medical_book.pdf', 'page': 3}",Dean Dauphinais
+What is the role of Margaret A. Chamberlain in the publication process?,"page_content='Maria Franklin, Permissions Manager
 Margaret A. Chamberlain, Permissions Specialist
 Michelle DiMercurio, Senior Art Director
 Mike Logusz, Graphic Artist
@@ -54,7 +54,7 @@ The GALE
 ENCYCLOPEDIA
 of MEDICINE
 SECOND EDITION
-Since this page cannot legibly accommodate all copyright notices, the' metadata={'source': 'data/Medical_book.pdf', 'page': 3}","The role of a Permissions Manager in a publishing company is to obtain and manage permissions for copyrighted materials, such as images or text, that are used in publications."
+Since this page cannot legibly accommodate all copyright notices, the' metadata={'source': 'data/Medical_book.pdf', 'page': 3}",Margaret A. Chamberlain is a Permissions Specialist.
 What is the purpose of including an extension of the copyright notice in a medical textbook?,"page_content='of MEDICINE
 SECOND EDITION
 Since this page cannot legibly accommodate all copyright notices, the
@@ -62,24 +62,24 @@ acknowledgments constitute an extension of the copyright notice.
 While every effort has been made to ensure the reliability of the infor-
 mation presented in this publication, the Gale Group neither guarantees
 the accuracy of the data contained herein nor assumes any responsibili-
-ty for errors, omissions or discrepancies. The Gale Group accepts no' metadata={'source': 'data/Medical_book.pdf', 'page': 3}","The purpose of including an extension of the copyright notice in a medical textbook is to acknowledge and protect the intellectual property rights of the authors, publishers, or other relevant parties. This extension serves as a formal declaration that the information presented in the book is copyrighted material and not public domain."
-What is the purpose of the Environmental Protection Agency standards mentioned in this context?,"page_content='ty for errors, omissions or discrepancies. The Gale Group accepts no
+ty for errors, omissions or discrepancies. The Gale Group accepts no' metadata={'source': 'data/Medical_book.pdf', 'page': 3}","The purpose of including an extension of the copyright notice in a medical textbook is to provide a comprehensive and detailed acknowledgment of the sources used, while also ensuring that all necessary legal disclaimers are included. This is done to protect the intellectual property rights of the authors and publishers, as well as to absolve them from any potential liability for errors or omissions in the information presented."
+"What type of paper was used to print this medical book, according to the publisher?","page_content='ty for errors, omissions or discrepancies. The Gale Group accepts no
 payment for listing, and inclusion in the publication of any organiza-
 tion, agency, institution, publication, service, or individual does not
 imply endorsement of the editor or publisher. Errors brought to the
 attention of the publisher and verified to the satisfaction of the publish-
 er will be corrected in future editions.
 This book is printed on recycled paper that meets Environmental Pro-
-tection Agency standards.' metadata={'source': 'data/Medical_book.pdf', 'page': 3}","The purpose of the Environmental Protection Agency (EPA) standards mentioned in this context is to ensure that the paper used for printing the book meets certain environmental guidelines and regulations, likely related to sustainability and recyclability."
-What is the primary environmental benefit mentioned in the book's printing process?,"page_content='This book is printed on recycled paper that meets Environmental Pro-
+tection Agency standards.' metadata={'source': 'data/Medical_book.pdf', 'page': 3}",Recycled paper
+What is the standard for paper permanence mentioned in this book?,"page_content='This book is printed on recycled paper that meets Environmental Pro-
 tection Agency standards.
 The paper used in this publication meets the minimum requirements of
 American National Standard for Information Sciences-Permanence
 Paper for Printed Library Materials, ANSI Z39.48-1984.
 This publication is a creative work fully protected by all applicable
 copyright laws, as well as by misappropriation, trade secret, unfair com-
-petition, and other applicable laws. The authors and editor of this work' metadata={'source': 'data/Medical_book.pdf', 'page': 3}","The primary environmental benefit mentioned in the book's printing process is that it uses recycled paper, meeting Environmental Protection Agency standards."
-"What is the purpose of adding value to the underlying factual material in a publication, as mentioned in this context?","page_content='petition, and other applicable laws. The authors and editor of this work
+petition, and other applicable laws. The authors and editor of this work' metadata={'source': 'data/Medical_book.pdf', 'page': 3}",ANSI Z39.48-1984
+What is the purpose of adding value to underlying factual material in this publication?,"page_content='petition, and other applicable laws. The authors and editor of this work
 have added value to the underlying factual material herein through one
 or more of the following: unique and original selection, coordination,
 expression, arrangement, and classification of the information.
@@ -88,8 +88,8 @@ All rights to this publication will be vigorously defended.
 Copyright © 2002
 Gale Group
 27500 Drake Road
-Farmington Hills, MI 48331-3535' metadata={'source': 'data/Medical_book.pdf', 'page': 3}","The purpose of adding value to the underlying factual material in a publication is to provide unique and original selection, coordination, expression, arrangement, and classification of the information."
-What is the purpose of including the ISBN numbers in a medical publication like this?,"page_content='Copyright © 2002
+Farmington Hills, MI 48331-3535' metadata={'source': 'data/Medical_book.pdf', 'page': 3}","To provide a unique and original presentation of the information, and to add value through selection, coordination, expression, arrangement, and classification."
+What is the purpose of including a Library of Congress Cataloging-in-Publication Data in a medical book?,"page_content='Copyright © 2002
 Gale Group
 27500 Drake Road
 Farmington Hills, MI 48331-3535
@@ -104,8 +104,8 @@ ISBN 0-7876-5489-2 (set)
 Printed in the United States of America
 10 9 8 7 6 5 4 3 2 1
 Library of Congress Cataloging-in-Publication Data
-Gale encyclopedia of medicine / Jacqueline L. Longe, editor;' metadata={'source': 'data/Medical_book.pdf', 'page': 3}","The ISBN numbers are included in a medical publication to uniquely identify each volume and the set as a whole, allowing for easy cataloging and retrieval in libraries and online databases."
-What is the main subject of this medical encyclopedia?,"page_content='Gale encyclopedia of medicine / Jacqueline L. Longe, editor;
+Gale encyclopedia of medicine / Jacqueline L. Longe, editor;' metadata={'source': 'data/Medical_book.pdf', 'page': 3}","The purpose of including a Library of Congress Cataloging-in-Publication Data in a medical book is to provide information about the publication, such as its ISBN numbers and copyright details. This data also helps libraries and other institutions catalog and identify the book correctly."
+What is the purpose of the bibliographical references included in this encyclopedia?,"page_content='Gale encyclopedia of medicine / Jacqueline L. Longe, editor;
 Deirdre S. Blanchfield, associate editor — 2nd ed.
 p. cm.
 Includes bibliographical references and index.
@@ -115,28 +115,28 @@ ISBN 0-7876-5489-2 (set: hardcover) — ISBN 0-7876-5490-6
 (vol. 1) — ISBN 0-7876-5491-4 (vol. 2) — ISBN 0-7876-5492-2
 (vol. 3) — ISBN 0-7876-5493-0 (vol. 4) — ISBN 0-7876-5494-9
 (vol. 5)
-1. Internal medicine—Encyclopedias. I. Longe, Jacqueline L.' metadata={'source': 'data/Medical_book.pdf', 'page': 3}",Internal medicine
-What is the International Standard Book Number (ISBN) of this medical encyclopedia?,"page_content='(vol. 5)
+1. Internal medicine—Encyclopedias. I. Longe, Jacqueline L.' metadata={'source': 'data/Medical_book.pdf', 'page': 3}","The bibliographical references included in this encyclopedia are for further research and study purposes, allowing readers to delve deeper into specific topics and explore the sources used by the authors."
+What is the purpose of including the Library of Congress cataloging information at the beginning of an encyclopedia on internal medicine?,"page_content='(vol. 5)
 1. Internal medicine—Encyclopedias. I. Longe, Jacqueline L. 
 II. Blanchfield, Deirdre S. III. Gale Research Company.
 RC41.G35 2001
 616’.003—dc21
-2001051245' metadata={'source': 'data/Medical_book.pdf', 'page': 3}",2001051245
-"What is the purpose of an Advisory Board in a medical publication, as mentioned on page xi?","page_content='Introduction.................................................... ix
+2001051245' metadata={'source': 'data/Medical_book.pdf', 'page': 3}","The purpose of including the Library of Congress cataloging information at the beginning of an encyclopedia on internal medicine is to provide a unique identifier and metadata about the publication, allowing for easy identification and organization within libraries and databases."
+"What is the purpose of listing contributors in a medical textbook, and what type of information can be expected from such a list?","page_content='Introduction.................................................... ix
 Advisory Board.............................................. xi
 Contributors ................................................. xiii
 Entries
 Volume 1: A-B.............................................. 1
 Volume 2: C-F.......................................... 625
 Volume 3: G-M....................................... 1375
-Volume 4: N-S........................................ 2307' metadata={'source': 'data/Medical_book.pdf', 'page': 4}",The Advisory Board provides expert review and validation of the content to ensure its accuracy and relevance.
-What is the purpose of the 'Organizations' section in this medical encyclopedia?,"page_content='Volume 4: N-S........................................ 2307
+Volume 4: N-S........................................ 2307' metadata={'source': 'data/Medical_book.pdf', 'page': 4}","The purpose of listing contributors in a medical textbook is to acknowledge and give credit to the individuals who have contributed to the book's content, such as authors, editors, reviewers, and illustrators. The list typically includes their names, affiliations, and roles in the project. This information can be expected from such a list: • Names of contributors • Affiliations (e.g., institutions, departments) • Roles in the project (e.g., author, editor, reviewer)"
+What is the significance of the organization section in this medical encyclopedia?,"page_content='Volume 4: N-S........................................ 2307
 Volume 5: T-Z........................................ 3237
 Organizations ............................................ 3603
 General Index............................................ 3625
 GALE ENCYCLOPEDIA OF MEDICINE 2 V
-CONTENTS' metadata={'source': 'data/Medical_book.pdf', 'page': 4}","The purpose of the 'Organizations' section in this medical encyclopedia is to provide a list of organizations related to medicine, likely including hospitals, research institutions, and professional associations, that can be useful for reference or further study."
-"What is the primary purpose of The Gale Encyclopedia of Medicine 2, as stated in the provided text?","page_content='The Gale Encyclopedia of Medicine 2is a medical ref-
+CONTENTS' metadata={'source': 'data/Medical_book.pdf', 'page': 4}","The organization section in this medical encyclopedia provides a list of organizations, indicating that it contains information on various institutions and entities related to medicine, which can be useful for students looking for resources or references."
+"What is the primary purpose of The Gale Encyclopedia of Medicine 2, according to its intended use?","page_content='The Gale Encyclopedia of Medicine 2is a medical ref-
 erence product designed to inform and educate readers
 about a wide variety of disorders, conditions, treatments,
 and diagnostic tests. The Gale Group believes the product
@@ -144,23 +144,23 @@ to be comprehensive, but not necessarily definitive. It is
 intended to supplement, not replace, consultation with a
 physician or other healthcare practitioner. While the Gale
 Group has made substantial efforts to provide information' metadata={'source': 'data/Medical_book.pdf', 'page': 5}","To inform and educate readers about a wide variety of disorders, conditions, treatments, and diagnostic tests."
-What type of warranty does the Gale Group make regarding the information provided in this product?,"page_content='Group has made substantial efforts to provide information
+What specific warranties does the Gale Group make regarding the information provided in this product?,"page_content='Group has made substantial efforts to provide information
 that is accurate, comprehensive, and up-to-date, the Gale
 Group makes no representations or warranties of any
 kind, including without limitation, warranties of mer-
 chantability or fitness for a particular purpose, nor does it
 guarantee the accuracy, comprehensiveness, or timeliness
 of the information contained in this product. Readers
-should be aware that the universe of medical knowledge' metadata={'source': 'data/Medical_book.pdf', 'page': 5}","The Gale Group makes no representations or warranties of any kind regarding the information provided in this product, including but not limited to merchantability or fitness for a particular purpose."
-What is the primary purpose of the disclaimer at the beginning of this medical textbook?,"page_content='should be aware that the universe of medical knowledge
+should be aware that the universe of medical knowledge' metadata={'source': 'data/Medical_book.pdf', 'page': 5}","The Gale Group makes no representations or warranties of any kind, including without limitation, warranties of merchantability or fitness for a particular purpose."
+What is the primary purpose of including a disclaimer about professional diagnosis and treatment in a medical textbook?,"page_content='should be aware that the universe of medical knowledge
 is constantly growing and changing, and that differences
 of medical opinion exist among authorities. Readers are
 also advised to seek professional diagnosis and treatment
 for any medical condition, and to discuss information
 obtained from this book with their health care provider.
 GALE ENCYCLOPEDIA OF MEDICINE 2 VII
-PLEASE READ—IMPORTANT INFORMATION' metadata={'source': 'data/Medical_book.pdf', 'page': 5}",To inform readers that medical knowledge is constantly evolving and to advise them to consult a healthcare professional for any medical condition.
-What is the primary purpose of using layperson-friendly language in The Gale Encyclopedia of Medicine 2?,"page_content='The Gale Encyclopedia of Medicine 2 (GEM2) is a
+PLEASE READ—IMPORTANT INFORMATION' metadata={'source': 'data/Medical_book.pdf', 'page': 5}","The primary purpose of including a disclaimer about professional diagnosis and treatment in a medical textbook is to inform readers that they should not rely solely on the information provided in the book for making medical decisions, but rather consult with a healthcare professional for personalized advice and treatment."
+What is the primary purpose of using non-technical language in The Gale Encyclopedia of Medicine 2?,"page_content='The Gale Encyclopedia of Medicine 2 (GEM2) is a
 one-stop source for medical information on nearly 1,700
 common medical disorders, conditions, tests, and treat-
 ments, including high-profile diseases such as AIDS,
@@ -168,8 +168,8 @@ Alzheimer’s disease, cancer, and heart attack. This ency-
 clopedia avoids medical jargon and uses language that
 laypersons can understand, while still providing thor-
 ough coverage of each topic. The Gale Encyclopedia of
-Medicine 2 fills a gap between basic consumer health' metadata={'source': 'data/Medical_book.pdf', 'page': 6}","To provide medical information that can be easily understood by laypersons, without using complex medical terminology."
-What is the primary difference between Medicine 2 and a single-volume family medical guide?,"page_content='Medicine 2 fills a gap between basic consumer health
+Medicine 2 fills a gap between basic consumer health' metadata={'source': 'data/Medical_book.pdf', 'page': 6}","To provide medical information to laypersons in a way that is easy to understand, while still covering each topic thoroughly."
+What is the primary purpose of Medicine 2 in terms of its scope and content?,"page_content='Medicine 2 fills a gap between basic consumer health
 resources, such as single-volume family medical guides,
 and highly technical professional materials.
 SCOPE
@@ -178,8 +178,8 @@ Gale Encyclopedia of Medicine 2 , including disorders/
 conditions, tests/procedures, and treatments/therapies.
 Many common drugs are also covered, with generic drug
 names appearing first and brand names following in
-parentheses, eg. acetaminophen (Tylenol). Throughout' metadata={'source': 'data/Medical_book.pdf', 'page': 6}","The primary difference between Medicine 2 and a single-volume family medical guide is that Medicine 2 provides more in-depth information, including over 1,700 full-length articles on various medical topics, whereas a single-volume family medical guide typically provides basic consumer health information."
-What is the primary function of the standardized format used in articles within the Gale Encyclopedia of Medicine 2?,"page_content='parentheses, eg. acetaminophen (Tylenol). Throughout
+parentheses, eg. acetaminophen (Tylenol). Throughout' metadata={'source': 'data/Medical_book.pdf', 'page': 6}","Medicine 2 fills a gap between basic consumer health resources and highly technical professional materials by providing comprehensive information on various medical topics, including disorders/conditions, tests/procedures, treatments/therapies, and common drugs."
+"What is the purpose of a standardized format in medical articles, as described in the Gale Encyclopedia of Medicine 2?","page_content='parentheses, eg. acetaminophen (Tylenol). Throughout
 the Gale Encyclopedia of Medicine 2 , many prominent
 individuals are highlighted as sidebar biographies that
 accompany the main topical essays. Articles follow a
@@ -192,7 +192,7 @@ Causes and symptoms Precautions
 Diagnosis Description
 Treatment Preparation
 Alternative treatment Aftercare
-Prognosis Risks' metadata={'source': 'data/Medical_book.pdf', 'page': 6}","To provide a clear and concise overview of medical information, including definitions, causes, symptoms, diagnosis, treatment, and prognosis, in a standardized format that facilitates quick reference and understanding."
+Prognosis Risks' metadata={'source': 'data/Medical_book.pdf', 'page': 6}","The purpose of a standardized format in medical articles, as described in the Gale Encyclopedia of Medicine 2, is to provide information at a glance and make it easy for readers to quickly understand the main points of each topic. The standardized format includes rubrics such as Disorders/Conditions Tests/Treatments, Definition, Description, Causes and symptoms, Precautions, Diagnosis, Treatment, Alternative treatment, Aftercare, Prognosis, and Risks."
 "What is the primary focus of holistic medicine, as described in the context?","page_content='Diagnosis Description
 Treatment Preparation
 Alternative treatment Aftercare
@@ -205,8 +205,8 @@ in holistic medicine that emphasizes the connection
 between mind and body. Aimed at achieving and main-
 taining good health rather than just eliminating disease,
 this approach has come to be known as alternative medi-
-cine. The Gale Encyclopedia of Medicine 2 includes a' metadata={'source': 'data/Medical_book.pdf', 'page': 6}","The primary focus of holistic medicine, as described in the context, is to achieve and maintain good health by emphasizing the connection between mind and body, rather than just eliminating disease."
-What is the primary difference between traditional Chinese medicine and homeopathy as described in The Gale Encyclopedia of Medicine 2?,"page_content='cine. The Gale Encyclopedia of Medicine 2 includes a
+cine. The Gale Encyclopedia of Medicine 2 includes a' metadata={'source': 'data/Medical_book.pdf', 'page': 6}","The primary focus of holistic medicine, as described in the context, is on achieving and maintaining good health by emphasizing the connection between mind and body, rather than just eliminating disease."
+"What is the primary difference between traditional Chinese medicine and homeopathy, according to The Gale Encyclopedia of Medicine 2?","page_content='cine. The Gale Encyclopedia of Medicine 2 includes a
 number of essays on alternative therapies, ranging from
 traditional Chinese medicine to homeopathy and from
 meditation to aromatherapy. In addition to full essays on
@@ -214,8 +214,8 @@ alternative therapies, the encyclopedia features specific
 Alternative treatment sections for diseases and condi-
 tions that may be helped by complementary therapies.
 INCLUSION CRITERIA
-A preliminary list of diseases, disorders, tests and treat-' metadata={'source': 'data/Medical_book.pdf', 'page': 6}","Traditional Chinese medicine focuses on restoring balance to the body's vital energy (qi) through natural therapies such as acupuncture, herbal remedies, and tai chi. Homeopathy, on the other hand, is based on the idea that highly diluted substances can stimulate the body's natural healing processes by treating 'like with like'."
-"What specific sources were used by the preliminary list of diseases, disorders, tests and treatments to compile their information?","page_content='INCLUSION CRITERIA
+A preliminary list of diseases, disorders, tests and treat-' metadata={'source': 'data/Medical_book.pdf', 'page': 6}","Traditional Chinese medicine is a holistic system that views the body as an interconnected whole, whereas homeopathy is a system of alternative medicine that treats patients with highly diluted preparations of substances."
+What is the role of a general advisory board in compiling a list of diseases and treatments?,"page_content='INCLUSION CRITERIA
 A preliminary list of diseases, disorders, tests and treat-
 ments was compiled from a wide variety of sources,
 including professional medical guides and textbooks as
@@ -223,8 +223,8 @@ well as consumer guides and encyclopedias. The general
 advisory board, made up of public librarians, medical
 librarians and consumer health experts, evaluated the top-
 ics and made suggestions for inclusion. The list was sorted
-by category and sent to GEM2 medical advisors, certified' metadata={'source': 'data/Medical_book.pdf', 'page': 6}","The preliminary list of diseases, disorders, tests and treatments was compiled from a wide variety of sources, including professional medical guides and textbooks as well as consumer guides and encyclopedias."
-What type of medical professionals contributed to the compilation of essays in this book?,"page_content='by category and sent to GEM2 medical advisors, certified
+by category and sent to GEM2 medical advisors, certified' metadata={'source': 'data/Medical_book.pdf', 'page': 6}","The general advisory board plays a crucial role in compiling the list of diseases and treatments by evaluating the topics from various sources, making suggestions for inclusion, and ensuring that the information is accurate and relevant."
+What is the primary role of the GEM2 medical advisors in the creation of this medical resource?,"page_content='by category and sent to GEM2 medical advisors, certified
 physicians with various medical specialities, for review.
 Final selection of topics to include was made by the med-
 ical advisors in conjunction with the Gale Group editor.
@@ -232,7 +232,7 @@ ABOUT THE CONTRIBUTORS
 The essays were compiled by experienced medical
 writers, including physicians, pharmacists, nurses, and
 other health care professionals. GEM2 medical advisors
-reviewed the completed essays to insure that they are' metadata={'source': 'data/Medical_book.pdf', 'page': 6}","experienced medical writers, including physicians, pharmacists, nurses, and other health care professionals"
+reviewed the completed essays to insure that they are' metadata={'source': 'data/Medical_book.pdf', 'page': 6}","To review and ensure the accuracy of the essays, ensuring they meet medical standards."
 What is the primary feature of the Gale Encyclopedia of Medicine 2 that allows users to locate information quickly?,"page_content='reviewed the completed essays to insure that they are
 appropriate, up-to-date, and medically accurate.
 HOW TO USE THIS BOOK
@@ -243,8 +243,8 @@ locate information quickly.
 • Bold-faced terms function as print hyperlinks that
 point the reader to related entries in the encyclopedia.
 GALE ENCYCLOPEDIA OF MEDICINE 2 IX
-INTRODUCTION' metadata={'source': 'data/Medical_book.pdf', 'page': 6}",Straight alphabetical arrangement allows users to locate information quickly.
-What is the primary purpose of cross-references in a medical encyclopedia?,"page_content='• Cross-references placed throughout the encyclopedia
+INTRODUCTION' metadata={'source': 'data/Medical_book.pdf', 'page': 6}",Straight alphabetical arrangement
+What is the purpose of cross-referencing synonyms in a medical encyclopedia?,"page_content='• Cross-references placed throughout the encyclopedia
 direct readers to where information on subjects with-
 out entries can be found. Synonyms are also cross-ref-
 erenced.
@@ -253,8 +253,8 @@ define unfamiliar terms or concepts.
 • Valuable contact information for organizations and
 support groups is included with each entry. The
 appendix contains an extensive list of organizations
-arranged in alphabetical order.' metadata={'source': 'data/Medical_book.pdf', 'page': 7}",To provide readers with information on subjects without entries and to facilitate further research.
-What is the primary function of the Resources section in The Gale Encyclopedia of Medicine 2?,"page_content='appendix contains an extensive list of organizations
+arranged in alphabetical order.' metadata={'source': 'data/Medical_book.pdf', 'page': 7}","The purpose of cross-referencing synonyms in a medical encyclopedia is to provide readers with easy access to related information and definitions, ensuring they can understand complex concepts and terminology."
+What is the primary purpose of the Resources section in this medical encyclopedia?,"page_content='appendix contains an extensive list of organizations
 arranged in alphabetical order.
 • Resources section directs users to additional sources
 of medical information on a topic.
@@ -266,8 +266,8 @@ The Gale Encyclopedia of Medicine 2 is enhanced
 with over 675 color images, including photos, charts,
 tables, and customized line drawings.
 GALE ENCYCLOPEDIA OF MEDICINE 2X
-Introduction' metadata={'source': 'data/Medical_book.pdf', 'page': 7}",The primary function of the Resources section in The Gale Encyclopedia of Medicine 2 is to direct users to additional sources of medical information on a topic.
-What is the role of Dr. Richard Adrouny in the Division of Oncology at Stanford University?,"page_content='MEDICAL ADVISORS
+Introduction' metadata={'source': 'data/Medical_book.pdf', 'page': 7}",The primary purpose of the Resources section in this medical encyclopedia is to direct users to additional sources of medical information on a topic.
+What is the primary specialty of Dr. Richard Adrouny based on his role at Stanford University?,"page_content='MEDICAL ADVISORS
 A. Richard Adrouny, M.D.,
 F.A.C.P.
 Clinical Assistant Professor of
@@ -290,8 +290,8 @@ Rosalyn Carson-DeWitt, M.D.
 Durham, NC
 Robin Dipasquale, N.D.
 Clinical Faculty
-Bastyr University' metadata={'source': 'data/Medical_book.pdf', 'page': 8}",Dr. Richard Adrouny is a Clinical Assistant Professor of Medicine in the Division of Oncology at Stanford University and the Director of Medical Oncology at Community Hospital of Los Gatos-Saratoga.
-What is the relationship between Dr. Carson-DeWitt and Bastyr University?,"page_content='Rosalyn Carson-DeWitt, M.D.
+Bastyr University' metadata={'source': 'data/Medical_book.pdf', 'page': 8}","Dr. Richard Adrouny's primary specialty is Medical Oncology, based on his role as Director of Medical Oncology at Community Hospital of Los Gatos-Saratoga and Clinical Assistant Professor of Medicine in the Division of Oncology at Stanford University."
+What is the title of Dr. Laith F. Gulli's book or publication mentioned in this context?,"page_content='Rosalyn Carson-DeWitt, M.D.
 Durham, NC
 Robin Dipasquale, N.D.
 Clinical Faculty
@@ -314,8 +314,8 @@ Southfield, MI
 Larry I. Lutwick M.D., F.A.C.P.
 Director, Infectious Diseases
 V A Medical Center
-Brooklyn, NY' metadata={'source': 'data/Medical_book.pdf', 'page': 8}","Rosalyn Carson-DeWitt is a Clinical Faculty member at Bastyr University in Seattle, WA."
-What is the primary role of Dr. Ira Michelson in his affiliation with University of Michigan?,"page_content='Larry I. Lutwick M.D., F.A.C.P.
+Brooklyn, NY' metadata={'source': 'data/Medical_book.pdf', 'page': 8}",The title of Dr. Laith F. Gulli's book or publication is not mentioned in the context.
+"Who is the Director of Infectious Diseases at V A Medical Center in Brooklyn, NY?","page_content='Larry I. Lutwick M.D., F.A.C.P.
 Director, Infectious Diseases
 V A Medical Center
 Brooklyn, NY
@@ -337,4 +337,4 @@ Ronald Pies, M.D.
 Clinical Professor of Psychiatry
 Tufts University
 School of Medicine
-Boston, MA' metadata={'source': 'data/Medical_book.pdf', 'page': 8}",Dr. Ira Michelson is a Physician and Clinical Instructor at the University of Michigan.
+Boston, MA' metadata={'source': 'data/Medical_book.pdf', 'page': 8}","Larry I. Lutwick M.D., F.A.C.P."

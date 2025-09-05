@@ -217,6 +217,7 @@ context: {context}
                 ground_truth_qac_set = ground_truth_qac_set.drop(columns=[col])
 
         # Convert to HuggingFace Dataset
+        print("ground_truth_qac_set :",ground_truth_qac_set)
         eval_dataset = Dataset.from_pandas(ground_truth_qac_set)
 
         print(f"Created evaluation dataset with {len(eval_dataset)} samples.")
