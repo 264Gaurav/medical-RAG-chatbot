@@ -38,6 +38,7 @@ GROUND_TRUTH_FILENAME = os.getenv("GROUND_TRUTH_FILENAME",'groundtruth_eval_data
 RAGAS_DATASET_FILENAME = os.getenv("RAGAS_DATASET_FILENAME",'basic_qa_ragas_dataset.csv')
 EVAL_LLM_MODEL = os.getenv("EVAL_LLM_MODEL",'llama3.1:latest')
 EVAL_LLM_TEMPERATURE = os.getenv("EVAL_LLM_TEMPERATURE",0.0)
+START_QA_INDEX = os.getenv("START_QA_INDEX",100)
 
 def setup_environment():
     """Set up environment variables and MLflow."""
@@ -139,7 +140,7 @@ def run_rag_pipeline(vector_store) -> tuple:
     return rag_pipeline, rag_chain, ragas_chain
 
 
-def run_ground_truth_pipeline(chunks, num_chunks: int = NUM_QA_CHUNKS) -> tuple:
+def run_ground_truth_pipeline(chunks, num_chunks: int = NUM_QA_CHUNKS, start_index: int = START_QA_INDEX) -> tuple:
     """
     Run the ground truth generation pipeline.
 
@@ -163,7 +164,7 @@ def run_ground_truth_pipeline(chunks, num_chunks: int = NUM_QA_CHUNKS) -> tuple:
 
     # Generate ground truth dataset
     eval_dataset = ground_truth_pipeline.generate_ground_truth_dataset(
-        chunks, num_chunks, GROUND_TRUTH_FILENAME
+        chunks, num_chunks, GROUND_TRUTH_FILENAME, start_index
     )
 
     return ground_truth_pipeline, eval_dataset

@@ -17,6 +17,7 @@ from langchain.output_parsers import ResponseSchema, StructuredOutputParser
 from langchain_core.prompts import ChatPromptTemplate
 from langchain.schema import Document
 from typing import List, Dict, Any
+import mlflow
 
 
 class GroundTruthPipeline:
@@ -95,7 +96,7 @@ class GroundTruthPipeline:
 
         print("Output parsers configured for question and answer generation.")
 
-    def generate_questions(self, chunks: List[Document], num_chunks: int = 30) -> List[Dict[str, Any]]:
+    def generate_questions(self, chunks: List[Document], num_chunks: int = 30, start_index: int = 0) -> List[Dict[str, Any]]:
         """
         Generate questions from text chunks.
 
@@ -129,8 +130,10 @@ context: {context}
 
         qac_triples = []
 
-        print(f"Generating questions for {num_chunks} chunks...")
-        for text in tqdm(chunks[:num_chunks]):
+        mlflow.log_param("starting index for question generation(taking chunks)",start_index)
+        print(f"Generating questions for {num_chunks} chunks starting at index {start_index}...")
+        end_index = start_index + num_chunks
+        for text in tqdm(chunks[start_index:end_index]):
             messages = prompt_template.format_messages(
                 context=text,
                 format_instructions=self.question_output_parser.get_format_instructions()
@@ -236,7 +239,8 @@ context: {context}
 
     def generate_ground_truth_dataset(self, chunks: List[Document],
                                     num_chunks: int = 30,
-                                    output_filename: str = "groundtruth_eval_dataset.csv") -> Dataset:
+                                    output_filename: str = "groundtruth_eval_dataset.csv",
+                                    start_index: int = 0) -> Dataset:
         """
         Complete pipeline for generating ground truth dataset.
 
@@ -251,7 +255,7 @@ context: {context}
         print("Starting ground truth dataset generation...")
 
         # Generate questions
-        qac_triples = self.generate_questions(chunks, num_chunks)
+        qac_triples = self.generate_questions(chunks, num_chunks, start_index)
 
         # Generate answers
         qac_triples = self.generate_answers(qac_triples)
