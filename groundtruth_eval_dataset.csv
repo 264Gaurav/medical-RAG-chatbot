@@ -1,340 +1,296 @@
 question,context,ground_truth
-What is the primary difference between a virus and a prion in terms of their replication mechanisms?,"page_content='The GALE
-ENCYCLOPEDIA
-of MEDICINE
-SECOND EDITION' metadata={'source': 'data/Medical_book.pdf', 'page': 1}","Viruses require a host cell to replicate, whereas prions can replicate independently without a host cell."
-"What is the role of an Editor in a medical publication, as evident from the given context?","page_content='The GALE
-ENCYCLOPEDIA
-of MEDICINE
-SECOND EDITION
-JACQUELINE L. LONGE, EDITOR
-DEIRDRE S. BLANCHFIELD, ASSOCIATE EDITOR
-VOLUME
-A-B
-1' metadata={'source': 'data/Medical_book.pdf', 'page': 2}","The Editor is responsible for overseeing the content of a medical publication, ensuring accuracy and quality."
-What is the role of a Technical Specialist in an editorial team?,"page_content='STAFF
-Jacqueline L. Longe, Project Editor
-Deirdre S. Blanchfield, Associate Editor
-Christine B. Jeryan, Managing Editor
-Donna Olendorf, Senior Editor
-Stacey Blachford, Associate Editor
-Kate Kretschmann, Melissa C. McDade, Ryan
-Thomason, Assistant Editors
-Mark Springer, Technical Specialist
-Andrea Lopeman, Programmer/Analyst
-Barbara J. Yarrow,Manager, Imaging and Multimedia
-Content
-Robyn V . Young,Project Manager, Imaging and
-Multimedia Content
-Dean Dauphinais, Senior Editor, Imaging and' metadata={'source': 'data/Medical_book.pdf', 'page': 3}",The Technical Specialist is responsible for ensuring the accuracy of technical information in the publication.
-What is the role of Leitha Etheridge-Sims in the production of multimedia content for this medical book?,"page_content='Multimedia Content
-Dean Dauphinais, Senior Editor, Imaging and
-Multimedia Content
-Kelly A. Quin, Editor, Imaging and Multimedia Content
-Leitha Etheridge-Sims, Mary K. Grimes, Dave Oblender,
-Image Catalogers
-Pamela A. Reed, Imaging Coordinator
-Randy Bassett, Imaging Supervisor
-Robert Duncan, Senior Imaging Specialist
-Dan Newell, Imaging Specialist
-Christine O’Bryan,Graphic Specialist
-Maria Franklin, Permissions Manager
-Margaret A. Chamberlain, Permissions Specialist' metadata={'source': 'data/Medical_book.pdf', 'page': 3}",Leitha Etheridge-Sims is an Image Cataloger in the production of multimedia content for this medical book.
-What is the role of a Permissions Manager in the context of publishing a medical encyclopedia?,"page_content='Maria Franklin, Permissions Manager
-Margaret A. Chamberlain, Permissions Specialist
-Michelle DiMercurio, Senior Art Director
-Mike Logusz, Graphic Artist
-Mary Beth Trimper,Manager, Composition and
-Electronic Prepress
-Evi Seoud, Assistant Manager, Composition Purchasing
-and Electronic Prepress
-Dorothy Maki, Manufacturing Manager
-Wendy Blurton, Senior Manufacturing Specialist
-The GALE
-ENCYCLOPEDIA
-of MEDICINE
-SECOND EDITION
-Since this page cannot legibly accommodate all copyright notices, the' metadata={'source': 'data/Medical_book.pdf', 'page': 3}","The role of a Permissions Manager in the context of publishing a medical encyclopedia is to obtain and manage the necessary permissions from copyright holders for the use of copyrighted materials, such as images, text, or other content, within the encyclopedia."
-What is the purpose of the acknowledgments in this medical book?,"page_content='of MEDICINE
-SECOND EDITION
-Since this page cannot legibly accommodate all copyright notices, the
-acknowledgments constitute an extension of the copyright notice.
-While every effort has been made to ensure the reliability of the infor-
-mation presented in this publication, the Gale Group neither guarantees
-the accuracy of the data contained herein nor assumes any responsibili-
-ty for errors, omissions or discrepancies. The Gale Group accepts no' metadata={'source': 'data/Medical_book.pdf', 'page': 3}","The purpose of the acknowledgments in this medical book is to serve as an extension of the copyright notice, which cannot be accommodated on this page."
-What is the purpose of including a disclaimer about errors and omissions in a medical textbook?,"page_content='ty for errors, omissions or discrepancies. The Gale Group accepts no
-payment for listing, and inclusion in the publication of any organiza-
-tion, agency, institution, publication, service, or individual does not
-imply endorsement of the editor or publisher. Errors brought to the
-attention of the publisher and verified to the satisfaction of the publish-
-er will be corrected in future editions.
-This book is printed on recycled paper that meets Environmental Pro-
-tection Agency standards.' metadata={'source': 'data/Medical_book.pdf', 'page': 3}","The purpose of including a disclaimer about errors and omissions in a medical textbook is to inform readers that the publisher and editor are not responsible for any inaccuracies or discrepancies in the content, and to clarify that inclusion of an organization or individual does not imply endorsement. Additionally, it serves as a notice that corrections will be made in future editions if notified and verified by the publisher."
-What is the environmental benefit mentioned in relation to the paper used for printing this book?,"page_content='This book is printed on recycled paper that meets Environmental Pro-
-tection Agency standards.
-The paper used in this publication meets the minimum requirements of
-American National Standard for Information Sciences-Permanence
-Paper for Printed Library Materials, ANSI Z39.48-1984.
-This publication is a creative work fully protected by all applicable
-copyright laws, as well as by misappropriation, trade secret, unfair com-
-petition, and other applicable laws. The authors and editor of this work' metadata={'source': 'data/Medical_book.pdf', 'page': 3}","The environmental benefit mentioned in relation to the paper used for printing this book is that it meets Environmental Protection Agency standards and is made from recycled paper, which reduces waste and conserves natural resources."
-What is the purpose of adding value to the underlying factual material in a published work as mentioned in this context?,"page_content='petition, and other applicable laws. The authors and editor of this work
-have added value to the underlying factual material herein through one
-or more of the following: unique and original selection, coordination,
-expression, arrangement, and classification of the information.
-Gale Group and design is a trademark used herein under license.
-All rights to this publication will be vigorously defended.
-Copyright © 2002
-Gale Group
-27500 Drake Road
-Farmington Hills, MI 48331-3535' metadata={'source': 'data/Medical_book.pdf', 'page': 3}","The purpose of adding value to the underlying factual material in a published work is to provide unique and original selection, coordination, expression, arrangement, and classification of the information."
-What is the purpose of including ISBN numbers in a medical publication?,"page_content='Copyright © 2002
-Gale Group
-27500 Drake Road
-Farmington Hills, MI 48331-3535
-All rights reserved including the right of reproduction in whole or in
-part in any form.
-ISBN 0-7876-5489-2 (set)
-0-7876-5490-6 (V ol. 1)
-0-7876-5491-4 (V ol. 2)
-0-7876-5492-2 (V ol. 3)
-0-7876-5493-0 (V ol. 4)
-0-7876-5494-9 (V ol. 5)
-Printed in the United States of America
-10 9 8 7 6 5 4 3 2 1
-Library of Congress Cataloging-in-Publication Data
-Gale encyclopedia of medicine / Jacqueline L. Longe, editor;' metadata={'source': 'data/Medical_book.pdf', 'page': 3}",ISBN numbers are included in a medical publication to uniquely identify each volume and provide information for cataloging and ordering purposes.
-What is the primary subject of this encyclopedia?,"page_content='Gale encyclopedia of medicine / Jacqueline L. Longe, editor;
-Deirdre S. Blanchfield, associate editor — 2nd ed.
-p. cm.
-Includes bibliographical references and index.
-Contents: V ol. 1. A-B — v. 2. C-F — v. 3.
-G-M — v. 4. N-S — v. 5. T-Z.
-ISBN 0-7876-5489-2 (set: hardcover) — ISBN 0-7876-5490-6
-(vol. 1) — ISBN 0-7876-5491-4 (vol. 2) — ISBN 0-7876-5492-2
-(vol. 3) — ISBN 0-7876-5493-0 (vol. 4) — ISBN 0-7876-5494-9
-(vol. 5)
-1. Internal medicine—Encyclopedias. I. Longe, Jacqueline L.' metadata={'source': 'data/Medical_book.pdf', 'page': 3}",Internal medicine
-What is the primary subject matter of this medical encyclopedia?,"page_content='(vol. 5)
-1. Internal medicine—Encyclopedias. I. Longe, Jacqueline L. 
-II. Blanchfield, Deirdre S. III. Gale Research Company.
-RC41.G35 2001
-616’.003—dc21
-2001051245' metadata={'source': 'data/Medical_book.pdf', 'page': 3}",Internal medicine
-"What is the purpose of listing contributors in a medical textbook, and what information can be inferred about the authors from their inclusion?","page_content='Introduction.................................................... ix
-Advisory Board.............................................. xi
-Contributors ................................................. xiii
-Entries
-Volume 1: A-B.............................................. 1
-Volume 2: C-F.......................................... 625
-Volume 3: G-M....................................... 1375
-Volume 4: N-S........................................ 2307' metadata={'source': 'data/Medical_book.pdf', 'page': 4}","The purpose of listing contributors in a medical textbook is to acknowledge and give credit to experts who have contributed their knowledge, expertise, or research to specific entries within the book. By including contributors, authors aim to demonstrate the validity and reliability of information presented. The inclusion of contributors can also imply that the book has undergone rigorous peer-review and editing processes. Furthermore, it may suggest that the contributing authors are recognized authorities in their respective fields."
-What is the purpose of the 'Organizations' section in this medical encyclopedia?,"page_content='Volume 4: N-S........................................ 2307
-Volume 5: T-Z........................................ 3237
-Organizations ............................................ 3603
-General Index............................................ 3625
-GALE ENCYCLOPEDIA OF MEDICINE 2 V
-CONTENTS' metadata={'source': 'data/Medical_book.pdf', 'page': 4}","The purpose of the 'Organizations' section in this medical encyclopedia is likely to provide information about medical organizations, such as their name, location, and description. It may also include contact details or references for further reading."
-"What is the primary purpose of The Gale Encyclopedia of Medicine 2, according to the provided text?","page_content='The Gale Encyclopedia of Medicine 2is a medical ref-
-erence product designed to inform and educate readers
-about a wide variety of disorders, conditions, treatments,
-and diagnostic tests. The Gale Group believes the product
-to be comprehensive, but not necessarily definitive. It is
-intended to supplement, not replace, consultation with a
-physician or other healthcare practitioner. While the Gale
-Group has made substantial efforts to provide information' metadata={'source': 'data/Medical_book.pdf', 'page': 5}","To inform and educate readers about a wide variety of disorders, conditions, treatments, and diagnostic tests."
-What legal disclaimer is made by the Gale Group regarding the accuracy and comprehensiveness of the information in this product?,"page_content='Group has made substantial efforts to provide information
-that is accurate, comprehensive, and up-to-date, the Gale
-Group makes no representations or warranties of any
-kind, including without limitation, warranties of mer-
-chantability or fitness for a particular purpose, nor does it
-guarantee the accuracy, comprehensiveness, or timeliness
-of the information contained in this product. Readers
-should be aware that the universe of medical knowledge' metadata={'source': 'data/Medical_book.pdf', 'page': 5}","The Gale Group makes no representations or warranties of any kind, including without limitation, warranties of merchantability or fitness for a particular purpose."
-"What is the primary purpose of including a disclaimer at the beginning of a medical textbook, as seen in this passage?","page_content='should be aware that the universe of medical knowledge
-is constantly growing and changing, and that differences
-of medical opinion exist among authorities. Readers are
-also advised to seek professional diagnosis and treatment
-for any medical condition, and to discuss information
-obtained from this book with their health care provider.
-GALE ENCYCLOPEDIA OF MEDICINE 2 VII
-PLEASE READ—IMPORTANT INFORMATION' metadata={'source': 'data/Medical_book.pdf', 'page': 5}","The primary purpose of including a disclaimer at the beginning of a medical textbook is to inform readers that the information provided may not be up-to-date or universally accepted, and to advise them to seek professional diagnosis and treatment for any medical condition."
-"What is the primary purpose of the Gale Encyclopedia of Medicine 2, according to its description?","page_content='The Gale Encyclopedia of Medicine 2 (GEM2) is a
-one-stop source for medical information on nearly 1,700
-common medical disorders, conditions, tests, and treat-
-ments, including high-profile diseases such as AIDS,
-Alzheimer’s disease, cancer, and heart attack. This ency-
-clopedia avoids medical jargon and uses language that
-laypersons can understand, while still providing thor-
-ough coverage of each topic. The Gale Encyclopedia of
-Medicine 2 fills a gap between basic consumer health' metadata={'source': 'data/Medical_book.pdf', 'page': 6}","To provide medical information on common disorders, conditions, tests, and treatments in a way that laypersons can understand."
-What is the primary purpose of Medicine 2 in relation to consumer health resources and professional materials?,"page_content='Medicine 2 fills a gap between basic consumer health
-resources, such as single-volume family medical guides,
-and highly technical professional materials.
-SCOPE
-Almost 1,700 full-length articles are included in the
-Gale Encyclopedia of Medicine 2 , including disorders/
-conditions, tests/procedures, and treatments/therapies.
-Many common drugs are also covered, with generic drug
-names appearing first and brand names following in
-parentheses, eg. acetaminophen (Tylenol). Throughout' metadata={'source': 'data/Medical_book.pdf', 'page': 6}","Medicine 2 is a comprehensive resource that bridges the gap between basic consumer health information and highly technical professional materials, providing in-depth coverage of over 1,700 full-length articles on various medical topics."
-What is the primary purpose of including sidebar biographies in the Gale Encyclopedia of Medicine 2?,"page_content='parentheses, eg. acetaminophen (Tylenol). Throughout
-the Gale Encyclopedia of Medicine 2 , many prominent
-individuals are highlighted as sidebar biographies that
-accompany the main topical essays. Articles follow a
-standardized format that provides information at a
-glance. Rubrics include:
-Disorders/Conditions Tests/Treatments
-Definition Definition
-Description Purpose
-Causes and symptoms Precautions
-Diagnosis Description
-Treatment Preparation
-Alternative treatment Aftercare
-Prognosis Risks' metadata={'source': 'data/Medical_book.pdf', 'page': 6}","The primary purpose of including sidebar biographies in the Gale Encyclopedia of Medicine 2 is to provide a brief overview of the contributions and achievements of prominent individuals in the field of medicine, making it easier for readers to understand the context and relevance of the information presented in the main topical essays."
-"What is the primary goal of holistic medicine, as described in the context?","page_content='Diagnosis Description
-Treatment Preparation
-Alternative treatment Aftercare
-Prognosis Risks
-Prevention Normal/Abnormal results
-Resources Resources
-Key terms Key terms
-In recent years there has been a resurgence of interest
-in holistic medicine that emphasizes the connection
-between mind and body. Aimed at achieving and main-
-taining good health rather than just eliminating disease,
-this approach has come to be known as alternative medi-
-cine. The Gale Encyclopedia of Medicine 2 includes a' metadata={'source': 'data/Medical_book.pdf', 'page': 6}","The primary goal of holistic medicine is to achieve and maintain good health, rather than just eliminating disease."
-What is the primary difference between traditional Chinese medicine and homeopathy in terms of their underlying philosophies and treatment approaches?,"page_content='cine. The Gale Encyclopedia of Medicine 2 includes a
-number of essays on alternative therapies, ranging from
-traditional Chinese medicine to homeopathy and from
-meditation to aromatherapy. In addition to full essays on
-alternative therapies, the encyclopedia features specific
-Alternative treatment sections for diseases and condi-
-tions that may be helped by complementary therapies.
-INCLUSION CRITERIA
-A preliminary list of diseases, disorders, tests and treat-' metadata={'source': 'data/Medical_book.pdf', 'page': 6}","Traditional Chinese medicine is based on the concept of Qi (life energy) and emphasizes balance and harmony within the body, while homeopathy is based on the principle of like cures like and focuses on treating symptoms with highly diluted substances. Traditional Chinese medicine often uses herbal remedies, acupuncture, and other holistic approaches to restore balance, whereas homeopathy relies on minute doses of natural substances to stimulate the body's healing response."
-"What is the primary role of the general advisory board in compiling the preliminary list of diseases, disorders, tests, and treatments?","page_content='INCLUSION CRITERIA
-A preliminary list of diseases, disorders, tests and treat-
-ments was compiled from a wide variety of sources,
-including professional medical guides and textbooks as
-well as consumer guides and encyclopedias. The general
-advisory board, made up of public librarians, medical
-librarians and consumer health experts, evaluated the top-
-ics and made suggestions for inclusion. The list was sorted
-by category and sent to GEM2 medical advisors, certified' metadata={'source': 'data/Medical_book.pdf', 'page': 6}","The primary role of the general advisory board is to evaluate the topics and make suggestions for inclusion on the preliminary list, which was compiled from a wide variety of sources."
-What is the role of the Gale Group editor in the selection of topics for the medical book?,"page_content='by category and sent to GEM2 medical advisors, certified
-physicians with various medical specialities, for review.
-Final selection of topics to include was made by the med-
-ical advisors in conjunction with the Gale Group editor.
-ABOUT THE CONTRIBUTORS
-The essays were compiled by experienced medical
-writers, including physicians, pharmacists, nurses, and
-other health care professionals. GEM2 medical advisors
-reviewed the completed essays to insure that they are' metadata={'source': 'data/Medical_book.pdf', 'page': 6}","The Gale Group editor works in conjunction with the GEM2 medical advisors, certified physicians with various medical specialties, to make the final selection of topics for inclusion in the medical book."
-What is the main purpose of the bold-faced terms in The Gale Encyclopedia of Medicine 2?,"page_content='reviewed the completed essays to insure that they are
-appropriate, up-to-date, and medically accurate.
-HOW TO USE THIS BOOK
-The Gale Encyclopedia of Medicine 2 has been
-designed with ready reference in mind.
-• Straight alphabetical arrangement allows users to
-locate information quickly.
-• Bold-faced terms function as print hyperlinks that
-point the reader to related entries in the encyclopedia.
-GALE ENCYCLOPEDIA OF MEDICINE 2 IX
-INTRODUCTION' metadata={'source': 'data/Medical_book.pdf', 'page': 6}",The main purpose of the bold-faced terms in The Gale Encyclopedia of Medicine 2 is to function as print hyperlinks that point the reader to related entries in the encyclopedia.
-"What is the primary purpose of cross-references in a medical encyclopedia, according to this passage?","page_content='• Cross-references placed throughout the encyclopedia
-direct readers to where information on subjects with-
-out entries can be found. Synonyms are also cross-ref-
-erenced.
-• A list of key terms are provided where appropriate to
-define unfamiliar terms or concepts.
-• Valuable contact information for organizations and
-support groups is included with each entry. The
-appendix contains an extensive list of organizations
-arranged in alphabetical order.' metadata={'source': 'data/Medical_book.pdf', 'page': 7}","To direct readers to where information on subjects without entries can be found, as well as to define unfamiliar terms or concepts and provide valuable contact information for organizations and support groups."
-What is the primary function of the Resources section in this medical encyclopedia?,"page_content='appendix contains an extensive list of organizations
-arranged in alphabetical order.
-• Resources section directs users to additional sources
-of medical information on a topic.
-• A comprehensive general index allows users to easily
-target detailed aspects of any topic, including Latin
-names.
-GRAPHICS
-The Gale Encyclopedia of Medicine 2 is enhanced
-with over 675 color images, including photos, charts,
-tables, and customized line drawings.
-GALE ENCYCLOPEDIA OF MEDICINE 2X
-Introduction' metadata={'source': 'data/Medical_book.pdf', 'page': 7}",The primary function of the Resources section in this medical encyclopedia is to direct users to additional sources of medical information on a topic.
-What is the title of Dr. Richard Adrouny's position at Community Hospital of Los Gatos-Saratoga?,"page_content='MEDICAL ADVISORS
-A. Richard Adrouny, M.D.,
-F.A.C.P.
-Clinical Assistant Professor of
-Medicine
-Division of Oncology
-Stanford University
-Director of Medical Oncology
-Community Hospital of Los Gatos-
-Saratoga
-Los Gatos, CA
-Laurie Barclay, M.D.
-Neurological Consulting Services
-Tampa, FL
-Kenneth J. Berniker, M.D.
-Attending Physician
-Emergency Department
-Kaiser Permanente Medical Center
-Vallejo, CA
-Rosalyn Carson-DeWitt, M.D.
-Durham, NC
-Robin Dipasquale, N.D.
-Clinical Faculty
-Bastyr University' metadata={'source': 'data/Medical_book.pdf', 'page': 8}",Director of Medical Oncology
-What type of degree does Laith F. Gulli hold in addition to his medical degrees?,"page_content='Rosalyn Carson-DeWitt, M.D.
-Durham, NC
-Robin Dipasquale, N.D.
-Clinical Faculty
-Bastyr University
-Seattle, W A
-Faye Fishman, D.O.
-Randolph, NJ
-J. Gary Grant, M.D.
-Pacific Grove, CA
-Laith F. Gulli, M.D.
-M.Sc., M.Sc.(MedSci), MSA,
-Msc.Psych., MRSNZ
-FRSH, FRIPHH, FAIC, FZS
-DAPA, DABFC, DABCI
-Consultant Psychotherapist in
-Private Practice
-Lathrup Village, MI
-L. Anne Hirschel, D.D.S.
-Southfield, MI
-Larry I. Lutwick M.D., F.A.C.P.
-Director, Infectious Diseases
-V A Medical Center
-Brooklyn, NY' metadata={'source': 'data/Medical_book.pdf', 'page': 8}","M.Sc., M.Sc.(MedSci), MSA, Msc.Psych., MRSNZ FRSH, FRIPHH, FAIC, FZS DAPA, DABFC, DABCI"
-"What is the title of Dr. Larry I. Lutwick's position at the V A Medical Center in Brooklyn, NY?","page_content='Larry I. Lutwick M.D., F.A.C.P.
-Director, Infectious Diseases
-V A Medical Center
-Brooklyn, NY
-Ira Michelson, M.D., M.B.A.,
-F.A.C.O.G.
-Physician and Clinical Instructor
-University of Michigan
-Ann Arbor, MI
-Susan Mockus, M.D.
-Scientific Consultant
-Seattle, W A
-Ralph M. Myerson, M.D.,
-F.A.C.P.
-Clinical Professor of Medicine
-Medical College of Pennsylvania–
-Hahnemann University
-Philadelphia, PA
-Ronald Pies, M.D.
-Clinical Professor of Psychiatry
-Tufts University
-School of Medicine
-Boston, MA' metadata={'source': 'data/Medical_book.pdf', 'page': 8}","Director, Infectious Diseases"
+What is a limitation of using ultrasound imaging to visualize certain organs in the body?,"page_content='received can be plotted on the screen as a distance into the
+body. The relative strength of each echo, a function of the
+specific tissue or organ boundary that produced it, can be
+plotted as a point of varying brightness. In this way, the
+echoes are translated into a picture. Tissues surrounded
+by bone or filled with gas (the stomach, intestines and
+bowel) cannot be imaged using ultrasound, because the
+waves are blocked or become randomly scattered.' metadata={'source': 'data/Medical_book.pdf', 'page': 17}","The limitation of using ultrasound imaging to visualize certain organs in the body is that tissues surrounded by bone or filled with gas (such as the stomach, intestines, and bowel) cannot be imaged because the waves are blocked or become randomly scattered."
+What is the primary use of A-mode ultrasound in medical imaging?,"page_content='waves are blocked or become randomly scattered.
+Four different modes of ultrasound are used in med-
+ical imaging:
+• A-mode. This is the simplest type of ultrasound in
+which a single transducer scans a line through the body
+with the echoes plotted on screen as a function of
+depth. This method is used to measure distances within
+the body and the size of internal organs. Therapeutic
+ultrasound aimed at a specific tumor or calculus is also
+A-mode, to allow for pinpoint accurate focus of the' metadata={'source': 'data/Medical_book.pdf', 'page': 17}",Measuring distances within the body and the size of internal organs.
+What is the primary advantage of using A-mode ultrasound?,"page_content='A-mode, to allow for pinpoint accurate focus of the
+destructive wave energy.
+• B-mode. In B-mode ultrasound, a linear array of trans-
+ducers simultaneously scans a plane through the body
+that can be viewed as a two-dimensional image on
+screen. Ultrasound probes containing more than 100
+transducers in sequence form the basis for these most
+commonly used scanners, which cost about $50,000.
+• M-Mode. The M stands for motion. A rapid sequence
+of B-mode scans whose images follow each other in' metadata={'source': 'data/Medical_book.pdf', 'page': 17}",The primary advantage of using A-mode ultrasound is its ability to pinpoint accurately focus the destructive wave energy.
+What is the main advantage of using B-mode scans with sequential images on a screen for doctors?,"page_content='of B-mode scans whose images follow each other in
+sequence on screen enables doctors to see and mea-
+sure range of motion, as the organ boundaries that
+produce reflections move relative to the probe. M-
+mode ultrasound has been put to particular use in
+studying heart motion.
+• Doppler mode. Doppler ultrasonography includes the
+capability of accurately measuring velocities of moving
+material, such as blood in arteries and veins. The prin-
+ciple is the same as that used in radar guns that measure' metadata={'source': 'data/Medical_book.pdf', 'page': 17}","The main advantage of using B-mode scans with sequential images on a screen for doctors is that it enables them to see and measure range of motion, as the organ boundaries that produce reflections move relative to the probe."
+What is the primary application of Doppler capability in medical imaging?,"page_content='ciple is the same as that used in radar guns that measure
+the speed of a car on the highway. Doppler capability is
+most often combined with B-mode scanning to produce
+images of blood vessels from which blood flow can be
+directly measured. This technique is used extensively to
+investigate valve defects, arteriosclerosis and hyper-
+tension, particularly in the heart, but also in the abdom-
+inal aorta and the portal vein of the liver. These
+machines cost about $250,000.' metadata={'source': 'data/Medical_book.pdf', 'page': 17}","Doppler capability in medical imaging is primarily used to measure blood flow directly from images of blood vessels. This technique is applied to investigate conditions such as valve defects, arteriosclerosis, and hypertension in various parts of the body including the heart, abdominal aorta, and portal vein of the liver."
+What is the purpose of fasting for at least eight hours prior to an abdominal ultrasound?,"page_content='inal aorta and the portal vein of the liver. These
+machines cost about $250,000.
+The actual procedure for a patient undergoing an
+abdominal ultrasound is relatively simple, regardless of
+the type of scan or its purpose. Fasting for at least eight
+hours prior to the procedure ensures that the stomach is
+empty and as small as possible, and that the intestines
+and bowels are relatively inactive. Fasting also allows the
+gall bladder to be seen, as it contracts after eating and' metadata={'source': 'data/Medical_book.pdf', 'page': 17}","To ensure that the stomach is empty and as small as possible, and that the intestines and bowels are relatively inactive, allowing for a clear view of the liver's portal vein and the abdominal aorta during the ultrasound procedure."
+What is the purpose of greasing the patient's abdomen with a special gel during an ultrasound procedure?,"page_content='gall bladder to be seen, as it contracts after eating and
+may not be seen if the stomach is full. In some cases, a
+full bladder helps to push intestinal folds out of the way
+so that the gas they contain does not disrupt the image.
+The patient’s abdomen is then greased with a special gel
+that allows the ultrasound probe to glide easily across the
+skin while transmitting and receiving ultrasonic pulses.
+This procedure is conducted by a doctor with the' metadata={'source': 'data/Medical_book.pdf', 'page': 17}","To allow the ultrasound probe to glide easily across the skin while transmitting and receiving ultrasonic pulses, thereby obtaining a clear image of the gall bladder and surrounding structures."
+What is a critical role of a technologist in an ultrasound procedure?,"page_content='This procedure is conducted by a doctor with the
+assistance of a technologist skilled in operating the
+equipment. The probe is moved around the abdomen to
+obtain different views of the target areas. The patient will
+likely be asked to change positions from side to side and
+to hold their breath as necessary to obtain the desired
+views. Discomfort during the procedure is minimal.
+The many types and uses of ultrasound technology
+makes it difficult to generalize about the time and costs' metadata={'source': 'data/Medical_book.pdf', 'page': 17}","The technologist is responsible for operating the ultrasound equipment, adjusting settings as needed to obtain clear images of the target areas. They also assist the doctor in positioning the probe and ensuring that the patient is comfortable throughout the procedure."
+"What is the estimated cost of a simple imaging procedure such as scanning a suspicious abdominal mass or a suspected abdominal aortic aneurysm, depending on the quality of the equipment and other factors?","page_content='makes it difficult to generalize about the time and costs
+involved. Relatively simple imaging—scanning a suspi-
+cious abdominal mass or a suspected abdominal aortic
+aneurysm—will take about half an hour to perform and
+will cost a few hundred dollars or more, depending on
+the quality of the equipment, the operator and other fac-
+tors. More involved techniques such as multiple M-mode
+and Doppler-enhanced scans, or cases where the targets
+not well defined in advance, generally take more time' metadata={'source': 'data/Medical_book.pdf', 'page': 17}",A few hundred dollars or more
+"What is the primary advantage of ultrasound scans over computed tomography (CT) scans in abdominal imaging, according to the text?","page_content='not well defined in advance, generally take more time
+and are more expensive.
+Regardless of the type of scan used and the potential
+difficulties encountered, ultrasound remains faster and
+less expensive than computed tomography scans (CT),
+its primary rival in abdominal imaging. Furthermore, as
+abdominal ultrasounds are generally undertaken as
+“medically necessary” procedures designed to detect the
+presence of suspected abnormalities, they are covered
+GALE ENCYCLOPEDIA OF MEDICINE 24' metadata={'source': 'data/Medical_book.pdf', 'page': 17}",Ultrasound scans are faster and less expensive than computed tomography (CT) scans in abdominal imaging.
+"What are the common uses of abdominal ultrasound in clinical practice, according to GALE ENCYCLOPEDIA OF MEDICINE 24?","page_content='presence of suspected abnormalities, they are covered
+GALE ENCYCLOPEDIA OF MEDICINE 24
+Abdominal ultrasound
+GEM - 0001 to 0432 - A  10/22/03 1:41 PM  Page 4' metadata={'source': 'data/Medical_book.pdf', 'page': 17}","Abdominal ultrasound is used to evaluate the liver, gallbladder, spleen, pancreas, kidneys, bladder, and other abdominal organs. It can also be used to guide biopsies or drain fluid collections."
+What specific conditions are detailed under the section for selecting ultrasound as a treatment option?,"page_content='under most types of major medical insurance. As always,
+though, the patient would be wise to confirm that their
+coverage extends to the specific procedure proposed. For
+nonemergency situations, most underwriters stipulate
+prior approval as a condition of coverage.
+Specific conditions for which ultrasound may be
+selected as a treatment option—certain types of tumors,
+lesions, kidney stones and other calculi, muscle and lig-
+ament injuries, etc.—are described in detail under the' metadata={'source': 'data/Medical_book.pdf', 'page': 18}","Certain types of tumors, lesions, kidney stones, and other calculi, muscle and ligament injuries."
+"What is a common preparation for a patient undergoing an abdominal ultrasound, especially if the gallbladder or ovaries are to be examined?","page_content='ament injuries, etc.—are described in detail under the
+appropriate entries in this encyclopedia.
+Preparation
+A patient undergoing abdominal ultrasound will be
+advised by their physician about what to expect and how
+to prepare. As mentioned above, preparations generally
+include fasting and arriving for the procedure with a full
+bladder, if necessary. This preparation is particularly use-
+ful if the gallbladder, ovaries or veins are to be examined.
+Aftercare' metadata={'source': 'data/Medical_book.pdf', 'page': 18}",Fasting and arriving with a full bladder
+What type of tissues may be damaged during an abdominal ultrasound procedure due to overly intense frequency and intensity ranges?,"page_content='ful if the gallbladder, ovaries or veins are to be examined.
+Aftercare
+In general, no aftercare related to the abdominal
+ultrasound procedure itself is required.
+Risks
+Abdominal ultrasound carries with it no recognized
+risks or side effects, if properly performed using appropri-
+ate frequency and intensity ranges. Sensitive tissues, par-
+ticularly those of the reproductive organs, could possibly
+sustain damage if violently vibrated by overly intense' metadata={'source': 'data/Medical_book.pdf', 'page': 18}","The sensitive tissues that may be damaged during an abdominal ultrasound procedure due to overly intense frequency and intensity ranges are those of the reproductive organs, particularly the gallbladder, ovaries, or veins."
+What is the specific precaution that should be taken by a woman who thinks she might be pregnant before undergoing an abdominal ultrasound?,"page_content='sustain damage if violently vibrated by overly intense
+ultrasound waves. In general though, such damage would
+only result from improper use of the equipment.
+Any woman who thinks she might be pregnant
+should raise this issue with her doctor before undergoing
+an abdominal ultrasound, as a fetus in the early stages of
+development could be injured by ultrasound meant to
+probe deeply recessed abdominal organs.
+Normal results
+As a diagnostic imaging technique, a normal abdom-' metadata={'source': 'data/Medical_book.pdf', 'page': 18}",The woman should inform her doctor about the possibility of pregnancy before undergoing an abdominal ultrasound to prevent potential damage to the fetus.
+What would be a typical reason for performing an abdominal ultrasound scan?,"page_content='Normal results
+As a diagnostic imaging technique, a normal abdom-
+inal ultrasound is one that indicates the absence of the
+suspected condition that prompted the scan. For example,
+symptoms such as a persistent cough, labored breathing,
+and upper abdominal pain suggest the possibility of,
+among other things, an abdominal aortic aneurysm. An
+ultrasound scan that indicates the absence of an aneurysm
+would rule out this life-threatening condition and point to
+other, less serious causes.' metadata={'source': 'data/Medical_book.pdf', 'page': 18}","To rule out a suspected abdominal aortic aneurysm and identify other possible causes of symptoms such as persistent cough, labored breathing, and upper abdominal pain."
+What life-threatening condition would an abdominal ultrasound rule out?,"page_content='would rule out this life-threatening condition and point to
+other, less serious causes.
+Abnormal results
+Because abdominal ultrasound imaging is generally
+undertaken to confirm a suspected condition, the results
+of a scan often will prove abnormal—that is they will
+confirm the diagnosis, be it kidney stones, cirrhosis of
+the liver or an aortic aneurysm. At that point, appropriate
+medical treatment as prescribed by a patient’s doctor is in' metadata={'source': 'data/Medical_book.pdf', 'page': 18}",Aortic Aneurysm
+"What is a common sonographic finding that can be associated with liver disease, according to Rebecca Hall's book in the provided resources?","page_content='medical treatment as prescribed by a patient’s doctor is in
+order. See the relevant disease and disorder entries in this
+encyclopedia for more information.
+Resources
+BOOKS
+Hall, Rebecca. The Ultrasonic Handbook: Clinical, Etiologic
+and Pathologic Implications of Sonographic Findings.
+Philadelphia: Lippincott, 1993.
+Kevles, Bettyann Holtzmann. Naked to the Bone: Medical
+Imaging in the Twentieth Century.New Brunswick, NJ:
+Rutgers University Press, 1997.' metadata={'source': 'data/Medical_book.pdf', 'page': 18}","A common sonographic finding associated with liver disease is the presence of a hypoechoic or hyperechoic pattern in the liver parenchyma, as described by Rebecca Hall's book."
+What is the primary focus of Frederick W. Kremkau's book 'Diagnostic Ultrasound: Principles and Instruments'?,"page_content='Imaging in the Twentieth Century.New Brunswick, NJ:
+Rutgers University Press, 1997.
+Kremkau, Frederick W. Diagnostic Ultrasound: Principles and
+Instruments. Philadelphia: W. B. Saunders Co., 1993.
+Shtasel, Philip. Medical Tests and Diagnostic Procedures: A
+Patient’s Guide to Just What the Doctor Ordered.New
+York: Harper & Row, 1991.
+Tempkin, Betty Bates. Ultrasound Scanning: Principles and
+Protocols. Philadelphia: W. B. Saunders Co., 1993.' metadata={'source': 'data/Medical_book.pdf', 'page': 18}",The primary focus of Frederick W. Kremkau's book 'Diagnostic Ultrasound: Principles and Instruments' is the principles and instruments used in diagnostic ultrasound.
+"What is the primary purpose of the book ‘The Patient’s Guide to Medical Tests’ by Barry L. Zaret, et al.?","page_content='Protocols. Philadelphia: W. B. Saunders Co., 1993.
+The Patient’s Guide to Medical Tests.Ed. Barry L. Zaret, et al.
+Boston: Houghton Mifflin, 1997.
+PERIODICALS
+“Ultrasound Detects Stomach Problems.”USA Today Maga-
+zine (October 1992): 5.
+Freundlich, Naomi. “Ultrasound: What’s Wrong with this Pic-
+ture?” Business Week(15 September 1997): 84-5.
+McDonagh, D. Brian. “Ultrasound: Unsung Medical Hero.”
+USA Today Magazine(September 1996): 66-7.' metadata={'source': 'data/Medical_book.pdf', 'page': 18}","The primary purpose of the book ‘The Patient’s Guide to Medical Tests’ by Barry L. Zaret, et al. is to provide a comprehensive guide for patients on various medical tests and their purposes."
+"What is the primary purpose of ultrasonography in medical diagnosis, as described by Murray in the ""Basics of Ultrasonography"" article?","page_content='McDonagh, D. Brian. “Ultrasound: Unsung Medical Hero.”
+USA Today Magazine(September 1996): 66-7.
+Murray, Maxine. “Basics of Ultrasonography.”Student British
+Medical Journal (August 1996): 269-72.
+Tait, N., and J. M. Little. “The Treatment of Gallstones.”
+British Medical Journal (8 July 1995): 99-105.
+ORGANIZATIONS
+American College of Gastroenterology. 4900 B South 31st St.,
+Arlington, V A 22206-1656. (703) 820-7400. <http://www.
+acg.gi.org>.' metadata={'source': 'data/Medical_book.pdf', 'page': 18}","Ultrasonography is used to produce high-quality images of the internal organs and tissues, allowing for non-invasive diagnosis and monitoring of various medical conditions."
+"What is the main purpose of the American Institute of Ultrasound in Medicine, as mentioned on the provided webpage?","page_content='Arlington, V A 22206-1656. (703) 820-7400. <http://www.
+acg.gi.org>.
+American Institute of Ultrasound in Medicine. 14750 Sweitzer
+Lane, Suite 100, Laurel, MD 20707-5906. (800) 638-
+5352. <http://www.aium.org>.
+American Society of Radiologic Technologists. 15000 Central
+Ave., SE, Albuquerque, NM 87123-3917. (505) 298-4500.
+<http://www.asrt.org>.
+Kurt Richard Sternlof
+Abdominal wall defects
+Definition
+Abdominal wall defects are birth (congenital)' metadata={'source': 'data/Medical_book.pdf', 'page': 18}","The main purpose of the American Institute of Ultrasound in Medicine is to promote excellence in the safe and effective use of ultrasound technology. The institute provides education, research, and resources for healthcare professionals to improve patient care."
+What is the primary cause of abdominal wall defects in newborns?,"page_content='Abdominal wall defects
+Definition
+Abdominal wall defects are birth (congenital)
+defects that allow the stomach or intestines to protrude.
+GALE ENCYCLOPEDIA OF MEDICINE 2 5
+Abdominal wall defects
+GEM - 0001 to 0432 - A  10/22/03 1:41 PM  Page 5' metadata={'source': 'data/Medical_book.pdf', 'page': 18}","Gastroschisis and Omphalocele are the primary causes of abdominal wall defects in newborns. Gastroschisis is a birth defect where there is a hole in the abdominal wall, allowing the intestines to protrude outside the body. Omphalocele, also known as exomphalos, is a congenital defect where the intestines and other organs protrude through the navel due to a failure of the abdominal muscles to close during fetal development."
+"A fetus with an omphalocele, a rare congenital defect where the intestines or stomach protrude through the navel. What is the primary cause of this condition?","page_content='Description
+Many unexpected and fascinating events occur dur-
+ing the development of a fetus inside the womb. The
+stomach and intestines begin development outside the
+baby’s abdomen and only later does the abdominal wall
+enclose them. Occasionally, either the umbilical opening
+is too large, or it develops improperly, allowing the bow-
+els or stomach to remain outside or squeeze through the
+abdominal wall.
+Causes and symptoms
+There are many causes for birth defects that still' metadata={'source': 'data/Medical_book.pdf', 'page': 19}","A defect in the development of the abdominal wall, particularly an improper or too large umbilical opening."
+What is the current understanding of the cause(s) of abdominal wall defects in a fetus?,"page_content='abdominal wall.
+Causes and symptoms
+There are many causes for birth defects that still
+remain unclear. Presently, the cause(s) of abdominal wall
+defects is unknown, and any symptoms the mother may
+have to indicate that the defects are present in the fetus
+are nondescript.
+Diagnosis
+At birth, the problem is obvious, because the base of
+the umbilical cord at the navel will bulge or, in worse
+cases, contain viscera (internal organs). Before birth, an' metadata={'source': 'data/Medical_book.pdf', 'page': 19}","The current understanding of the cause(s) of abdominal wall defects in a fetus is unknown, and any symptoms the mother may have to indicate that the defects are present in the fetus are nondescript."
+A pregnant woman undergoes an ultrasound examination and detects a case of abdominal wall defect in her fetus. What is the recommended next step for this patient?,"page_content='cases, contain viscera (internal organs). Before birth, an
+ultrasound examination may detect the problem. It is
+always necessary in children with one birth defect to look
+for others, because birth defects are usually multiple.
+Treatment
+Abdominal wall defects are effectively treated with
+surgical repair. Unless there are accompanying anom-
+alies, the surgical procedure is not overly complicated.
+The organs are normal, just misplaced. However, if the' metadata={'source': 'data/Medical_book.pdf', 'page': 19}",Surgical repair
+What is a possible complication of surgically repairing an umbilical hernia if the defect is large?,"page_content='The organs are normal, just misplaced. However, if the
+defect is large, it may be difficult to fit all the viscera into
+the small abdominal cavity.
+Prognosis
+If there are no other defects, the prognosis after sur-
+gical repair of this condition is relatively good. However,
+KEY TERMS
+Hernia—Movement of a structure into a place it
+does not belong.
+Umbilical —Referring to the opening in the
+abdominal wall where the blood vessels from the
+placenta enter.' metadata={'source': 'data/Medical_book.pdf', 'page': 19}","Strangulation of the intestines due to the large defect making it difficult to fit all the viscera into the small abdominal cavity, which can lead to necrosis and perforation."
+"What is the term for a condition where organs are unable to fit inside the abdominal cavity due to excessive size, but the organs themselves are fully functional?","page_content='abdominal wall where the blood vessels from the
+placenta enter.
+Viscera—Any of the body’s organs located in the
+chest or abdomen.
+10% of those with more severe or additional abnormali-
+ties die from it. The organs themselves are fully function-
+al; the difficulty lies in fitting them inside the abdomen.
+The condition is, in fact, a hernia requiring only replace-
+ment and strengthening of the passageway through
+which it occurred. After surgery, increased pressure in' metadata={'source': 'data/Medical_book.pdf', 'page': 19}",Organomegaly
+"What is the primary concern regarding increased pressure in the abdomen after surgery, and how does it affect organ function?","page_content='which it occurred. After surgery, increased pressure in
+the stretched abdomen can compromise the function of
+the organs inside.
+Prevention
+Some, but by no means all, birth defects are pre-
+ventable by early and attentive prenatal care, good nutri-
+tion, supplemental vitamins , diligent avoidance of all
+unnecessary drugs and chemicals—especially tobacco—
+and other elements of a healthy lifestyle.
+Resources
+PERIODICALS
+Dunn, J. C., and E. W. Fonkalsrud. “Improved Survival of' metadata={'source': 'data/Medical_book.pdf', 'page': 19}","Increased pressure in the abdomen after surgery can compromise the function of organs inside, such as the intestines and liver, leading to potential complications like organ failure or necrosis."
+"What is the primary difference between a gastroschisis and an omphalocele as described in the article by Langer, J. C., in Seminars in Pediatric Surgery?","page_content='Resources
+PERIODICALS
+Dunn, J. C., and E. W. Fonkalsrud. “Improved Survival of
+Infants with Omphalocele.”American Journal of Surgery
+173 (April 1997): 284-7.
+Langer, J. C. “Gastroschisis and Omphalocele.”Seminars in
+Pediatric Surgery5 (May 1996): 124-8.
+J. Ricker Polsdorfer, MD
+Abnormal heart rhythms see Arrhythmias
+ABO blood typing see Blood typing and
+crossmatching
+ABO incompatibility see Erythroblastosis
+fetalis
+Abortion, habitual see Recurrent
+miscarriage
+Abortion, partial birth
+Definition' metadata={'source': 'data/Medical_book.pdf', 'page': 19}","Gastroschisis and omphalocele are two distinct congenital anomalies of the anterior abdominal wall. The primary difference between them is that gastroschisis is a defect in the posterior wall of the umbilical cord, allowing intestinal contents to protrude through it, whereas omphalocele is a hernia-like protrusion of the intestines into the base of the umbilicus, which is covered by a sac of peritoneal membrane. In gastroschisis, there is no covering sac present, and the defect is usually located on the right side of the abdomen, whereas in omphalocele, a sac is present that covers the herniated contents."

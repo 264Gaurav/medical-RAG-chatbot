@@ -22,14 +22,13 @@ exp_name = os.getenv("MLFLOW_EXPERIMENT", "Ragas")
 CHUNK_SIZE = os.getenv("CHUNK_SIZE",500)
 CHUNK_OVERLAP = os.getenv("CHUNK_OVERLAP",100)
 PINECONE_INDEX = os.getenv("PINECONE_INDEX",'medical-chatbox')
-LLM_TEMPERATURE = os.getenv("LLM_TEMPERATURE",0.0)
+LLM_TEMPERATURE = os.getenv("LLM_TEMPERATURE",0.2)
 LLM_MODEL = os.getenv("LLM_MODEL",'llama3.1:latest')
 EMBEDDING_MODEL = os.getenv("EMBEDDING_MODEL",'nomic-embed-text:latest')
 OLLAMA_BASE_URL = os.getenv("OLLAMA_BASE_URL",'http://localhost:11434')
 RETRIEVER_SEARCH_TYPE = os.getenv("RETRIEVER_SEARCH_TYPE",'similarity')
-TOP_K = os.getenv("TOP_K",3)
-TEST_QUESTION = os.getenv("TEST_QUESTION",'What dose of vitamin-C and vitamin-D should we take?')
-NUM_QA_CHUNKS = os.getenv("NUM_QA_CHUNKS",30) #No. of Qus for evaluation
+TOP_K = os.getenv("TOP_K",5)
+TEST_QUESTION = os.getenv("TEST_QUESTION",'What dose of vitamin-C and water should we take?')
 QUESTION_LLM_MODEL = os.getenv("QUESTION_LLM_MODEL",'llama3.1:latest')
 ANSWER_LLM_MODEL = os.getenv("ANSWER_LLM_MODEL",'llama3.1:latest')
 QUESTION_LLM_TEMPERATURE = os.getenv("QUESTION_LLM_TEMPERATURE",0.5)
@@ -38,7 +37,8 @@ GROUND_TRUTH_FILENAME = os.getenv("GROUND_TRUTH_FILENAME",'groundtruth_eval_data
 RAGAS_DATASET_FILENAME = os.getenv("RAGAS_DATASET_FILENAME",'basic_qa_ragas_dataset.csv')
 EVAL_LLM_MODEL = os.getenv("EVAL_LLM_MODEL",'llama3.1:latest')
 EVAL_LLM_TEMPERATURE = os.getenv("EVAL_LLM_TEMPERATURE",0.0)
-START_QA_INDEX = os.getenv("START_QA_INDEX",100)
+START_QA_INDEX = os.getenv("START_QA_INDEX",100) #qus starts from 100 index of the chunks
+NUM_QA_CHUNKS = os.getenv("NUM_QA_CHUNKS",30) #No. of Qus for evaluation
 
 def setup_environment():
     """Set up environment variables and MLflow."""
@@ -166,6 +166,7 @@ def run_ground_truth_pipeline(chunks, num_chunks: int = NUM_QA_CHUNKS, start_ind
     eval_dataset = ground_truth_pipeline.generate_ground_truth_dataset(
         chunks, num_chunks, GROUND_TRUTH_FILENAME, start_index
     )
+    mlflow.log_param("starting index for qusSet generation",start_index)
 
     return ground_truth_pipeline, eval_dataset
 

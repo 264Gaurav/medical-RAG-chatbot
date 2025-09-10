@@ -130,7 +130,6 @@ context: {context}
 
         qac_triples = []
 
-        mlflow.log_param("starting index for question generation(taking chunks)",start_index)
         print(f"Generating questions for {num_chunks} chunks starting at index {start_index}...")
         end_index = start_index + num_chunks
         for text in tqdm(chunks[start_index:end_index]):
